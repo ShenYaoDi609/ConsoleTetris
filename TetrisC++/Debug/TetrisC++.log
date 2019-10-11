@@ -1,0 +1,5 @@
+﻿  pch.cpp
+d:\游戏程序设计\tetrisc++\tetrisc++\pch.cpp(183): warning C4101: “j”: 未引用的局部变量
+d:\游戏程序设计\tetrisc++\tetrisc++\pch.cpp(183): warning C4101: “i”: 未引用的局部变量
+  TetrisC++.cpp
+  TetrisC++.vcxproj -> D:\游戏程序设计\TetrisC++\Debug\TetrisC++.exe
